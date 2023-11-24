@@ -1,1 +1,1 @@
-# platzi_web_chatGPT
+# Curso de Creación de Páginas Web con ChatGPT
